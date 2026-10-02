@@ -65,13 +65,9 @@
    "publisherDisplayName": "Muhammad Shahbaz",
    "backgroundColor": "#1d4ed8",
    "addAutoLaunchExtension": false,
-   "capabilities": [
-    "privateNetworkClientServer"
-   ],
    "languages": [
     "en-US"
-   ],
-   "icon": "build/icon.png"
+   ]
   },
   "nsis": {
    "oneClick": false,
