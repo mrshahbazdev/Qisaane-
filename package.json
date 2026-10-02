@@ -1,7 +1,7 @@
 {
  "name": "qisaane",
  "productName": "Qisaane",
- "description": "Offline cafe Offline stock and sales register for small shops — items, stock in/out, low-stock alerts, bilingual receipts, day book. No account, no internet. restaurant POS — table map, dine-in/takeaway/delivery orders, kitchen order tickets, bilingual receipts, day book and Z-report. No account, no internet.",
+ "description": "Offline cafe and restaurant POS — table map, dine-in/takeaway/delivery orders, kitchen order tickets, bilingual receipts, day book and Z-report. No account, no internet.",
  "author": {
   "name": "Muhammad Shahbaz",
   "email": "mrshahbaznns@gmail.com"
@@ -60,7 +60,7 @@
   "appx": {
    "applicationId": "Qisaane",
    "displayName": "Qisaane",
-   "identityName": "MuhammadShahbaz.Binsorys",
+   "identityName": "MuhammadShahbaz.Qisaane",
    "publisher": "CN=82C2C857-730F-4239-B80D-4F1C7E03E8B4",
    "publisherDisplayName": "Muhammad Shahbaz",
    "backgroundColor": "#1d4ed8",
